@@ -1,2 +1,2 @@
 # OdinRecipeProject
-This is a test!
+This project will demonstrate the skills I have learned in Odin proect upto this point. These include creating an Index.html, coding links into a page and demonstrate the overall layout of a webpage.
